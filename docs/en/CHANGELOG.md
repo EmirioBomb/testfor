@@ -1,3 +1,10 @@
+## 🔖 Release v1.2.1 (2026-04-15)
+
+### 🐛 Bug Fixes
+
+* :art: force upgrade 24 ([24b48b3](https://github.com/EmirioBomb/testfor/commit/24b48b36b3bae55aebfb316ded409ac9fa270d9c))
+* :zap: pnpm order ([d8f64bf](https://github.com/EmirioBomb/testfor/commit/d8f64bf6a351f6fb7bd9e608bc0e23eb1b35bff2))
+
 ## 🔖 Release v1.2.0 (2026-04-15)
 
 ### ✨ Features
