@@ -1,3 +1,19 @@
+## 🔖 Release v1.1.0 (2026-04-15)
+
+### ✨ Features
+
+* :ambulance: update action version ([a6b3fd4](https://github.com/EmirioBomb/testfor/commit/a6b3fd4e8f588617b59b59f180b9ca5409e8b601))
+
+### 🐛 Bug Fixes
+
+* :ambulance: update action ([c4f5b12](https://github.com/EmirioBomb/testfor/commit/c4f5b120d98d67cd06d23f10b0e31a32a7fcd69f))
+* :bug: fix action > v5 ([f913272](https://github.com/EmirioBomb/testfor/commit/f913272894f1f94101395e5fe51660863af621df))
+* :fire: fix and reverse ([3efc7ae](https://github.com/EmirioBomb/testfor/commit/3efc7ae831ab348bddcd5dd3c0fc20aa4e2c3aa5))
+
+### 🔧 Chores
+
+* :ambulance: update github action ([9081272](https://github.com/EmirioBomb/testfor/commit/908127218f86bc988131b888989e9bd676705ce4))
+
 ## 🔖 Release v1.0.0 (2026-04-15)
 
 ### ✨ Features
