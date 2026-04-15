@@ -1,3 +1,9 @@
+## 🔖 Release v1.2.2 (2026-04-15)
+
+### 🐛 Bug Fixes
+
+* :zap: upgrade to v5 ([a37a2b6](https://github.com/EmirioBomb/testfor/commit/a37a2b6323b5a245c1a081c75cfceb895578dab7))
+
 ## 🔖 Release v1.2.1 (2026-04-15)
 
 ### 🐛 Bug Fixes
