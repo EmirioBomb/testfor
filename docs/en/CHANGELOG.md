@@ -1,3 +1,9 @@
+## 🔖 Release v1.0.0 (2026-04-15)
+
+### ✨ Features
+
+* :art: add chops ([b7ddead](https://github.com/EmirioBomb/testfor/commit/b7ddeadd88c080fed660a956a8906eb9ad9cdb61))
+
 ## 🔖 Release v1.0.6 (2026-04-15)
 
 ### 🐛 Bug Fixes
