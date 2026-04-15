@@ -1,3 +1,17 @@
+## 🔖 Release v1.2.0 (2026-04-15)
+
+### ✨ Features
+
+* :art: update base url ([e72ef4c](https://github.com/EmirioBomb/testfor/commit/e72ef4cf1efec8ad087496dfebc139da671c00d2))
+
+### 🐛 Bug Fixes
+
+* :art: fix cache pnpm ([e5f14e8](https://github.com/EmirioBomb/testfor/commit/e5f14e835b12b7b0141451d8ef81c5e025abaf5c))
+* :art: fix to v5 24 ([ecc0487](https://github.com/EmirioBomb/testfor/commit/ecc04870e17a657e7441e7d452b12a525d1fdf91))
+* :art: fix with pnpm 8 ([b075484](https://github.com/EmirioBomb/testfor/commit/b075484030b58d7c87f7332cf33678ed1c5c846f))
+* :bookmark: reverse ([110bb8d](https://github.com/EmirioBomb/testfor/commit/110bb8d0cdec58ac7967a63d4f67bc25bdc14103))
+* :bug: fix order pnpm and node version ([6def8cc](https://github.com/EmirioBomb/testfor/commit/6def8ccbdb4fbacb13b509a98aa0de1795b09bc5))
+
 ## 🔖 Release v1.1.0 (2026-04-15)
 
 ### ✨ Features
