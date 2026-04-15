@@ -26,12 +26,11 @@ jobs:
         with:
           # 选择要使用的 node 版本
           node-version: 24
-          cache: pnpm
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v5
         with:
-          version: 8
+          version: 9
 
       # 安装依赖
       # Install dependencies
