@@ -1,3 +1,9 @@
+## 🔖 Release v2.0.1 (2026-04-17)
+
+### 🐛 Bug Fixes
+
+* :art: 只有在release后，才执行deploy ([b5dcc7e](https://github.com/EmirioBomb/testfor/commit/b5dcc7ed207369ea627fe55afbbe4bae0c17cd19))
+
 ## 🔖 Release v2.0.0 (2026-04-17)
 
 ### ⚠ BREAKING CHANGES
