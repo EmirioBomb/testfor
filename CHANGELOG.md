@@ -1,3 +1,17 @@
+## 🔖 Release v2.0.0 (2026-04-17)
+
+### ⚠ BREAKING CHANGES
+
+* xxxxxxx name
+
+### 🐛 Bug Fixes
+
+* :arrow_up: bump versiont o 24 ([5601925](https://github.com/EmirioBomb/testfor/commit/5601925046ddcfa6f2becef17c473a10b71e0eb7))
+
+### 🔧 Chores
+
+* :arrow_up: bump dependencies to latest versions ([539bf03](https://github.com/EmirioBomb/testfor/commit/539bf032427c2f1c55eace3e80f2e4103acc9a26))
+
 ## 🔖 Release v1.2.4 (2026-04-17)
 
 ### 🐛 Bug Fixes
