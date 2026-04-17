@@ -1,3 +1,9 @@
+## 🔖 Release v1.2.3 (2026-04-17)
+
+### 🐛 Bug Fixes
+
+* :zap: scope node version ([ab3b9da](https://github.com/EmirioBomb/testfor/commit/ab3b9da8b738aae57795019821847b6e7502a496))
+
 ## 🔖 Release v1.2.2 (2026-04-15)
 
 ### 🐛 Bug Fixes
