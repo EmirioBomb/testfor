@@ -1,3 +1,9 @@
+## 🔖 Release v1.2.4 (2026-04-17)
+
+### 🐛 Bug Fixes
+
+* :art: fix node version 24 ([1812c2a](https://github.com/EmirioBomb/testfor/commit/1812c2ab0fda01e3d6970969a43301b9881c936d))
+
 ## 🔖 Release v1.2.3 (2026-04-17)
 
 ### 🐛 Bug Fixes
