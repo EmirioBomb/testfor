@@ -27,6 +27,11 @@
                         "release": "patch"
                     },
                     {
+                        "type": "docs",
+                        "scope": "blog",
+                        "release": "patch"
+                    },
+                    {
                         "type": "chore",
                         "scope": "deps",
                         "release": "patch"
