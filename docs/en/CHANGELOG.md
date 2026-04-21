@@ -1,3 +1,11 @@
+## 🔖 Release v2.0.2 (2026-04-21)
+
+### 📝 Documentation
+
+* :art: add some blogs ([e14de53](https://github.com/EmirioBomb/testfor/commit/e14de5335b903e4a3f2805df53ab1b0df78b25a7))
+* **blog:** :ambulance: blog patch ([f6a9dc3](https://github.com/EmirioBomb/testfor/commit/f6a9dc3218c96d849db18e8f36d95d6f51143036))
+* **note:** :art: add note scope ([3415ea7](https://github.com/EmirioBomb/testfor/commit/3415ea7c7bc79b77a25f3517f0637091579d5739))
+
 ## 🔖 Release v2.0.1 (2026-04-17)
 
 ### 🐛 Bug Fixes
