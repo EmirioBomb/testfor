@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "33",
         "blog",
-        "note"
+        "note",
+        "config"
     ]
 }

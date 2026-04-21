@@ -50,7 +50,9 @@ export default defineUserConfig({
     // editLink: true,
     // lastUpdated: true,
     // contributors: true,
-    changelog: true,
+    changelog: {
+      maxCount: 1,
+    },
 
     /**
      * 编译缓存，加快编译速度
