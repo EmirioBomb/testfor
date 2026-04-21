@@ -1,3 +1,10 @@
+## 🔖 Release v2.0.3 (2026-04-21)
+
+### 🐛 Bug Fixes
+
+* **blog:** :art: changelog ([9f7b0e5](https://github.com/EmirioBomb/testfor/commit/9f7b0e59b746ffdac25d042a7e6469b92da6375b))
+* **blog:** :zap: chagne 222 ([19b2c0f](https://github.com/EmirioBomb/testfor/commit/19b2c0f648a3783335c3da0793b24b3b389c0e34))
+
 ## 🔖 Release v2.0.2 (2026-04-21)
 
 ### 📝 Documentation
