@@ -1,3 +1,13 @@
+## 🔖 Release v2.0.4 (2026-04-22)
+
+### 📝 Documentation
+
+* **blog:** :art: hide docs ([27c77e8](https://github.com/EmirioBomb/testfor/commit/27c77e80804959138d6e05e0f815e8d95d495927))
+
+### 🔧 Chores
+
+* **config:** :wrench: enable feature ([4c0ac9b](https://github.com/EmirioBomb/testfor/commit/4c0ac9baf72ddebc19d551b00b65eaa218f6f829))
+
 ## 🔖 Release v2.0.3 (2026-04-21)
 
 ### 🐛 Bug Fixes
