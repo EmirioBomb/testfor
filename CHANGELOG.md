@@ -1,3 +1,12 @@
+## 🔖 Release v2.0.8 (2026-04-30)
+
+### 📝 Documentation
+
+* **33:** :art: patch releasexxxxx ([095739e](https://github.com/EmirioBomb/testfor/commit/095739ef756c4ed55b8ee73cf6b9c7d9ec7d268f))
+* **33:** :art: 这个patch的 ([75ec5f0](https://github.com/EmirioBomb/testfor/commit/75ec5f054f1d3c74aa175433d58e3c17aa9ff6e5))
+* **docs:** :art: xxxx release false ([29bf697](https://github.com/EmirioBomb/testfor/commit/29bf69731a1a7e789ce6cd721f85b343376cd572))
+* **docs:** :art: 这回还patch？ ([2fbe280](https://github.com/EmirioBomb/testfor/commit/2fbe280d8660073754d3f016a6888ffd76ff15e7))
+
 ## 🔖 Release v2.0.7 (2026-04-30)
 
 ### 📝 Documentation
