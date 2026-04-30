@@ -1,3 +1,10 @@
+## 🔖 Release v2.0.5 (2026-04-30)
+
+### 📝 Documentation
+
+* **33:** :art: 测试版权 ([b9c7386](https://github.com/EmirioBomb/testfor/commit/b9c7386154002c639265262806170c16a85f4da8))
+* **blog): :bug: 这个为 docs(blog:** 不patch ([7f7c6f5](https://github.com/EmirioBomb/testfor/commit/7f7c6f5ebd8e3ac555a283338d045e9f0df18e0b))
+
 ## 🔖 Release v2.0.4 (2026-04-22)
 
 ### 📝 Documentation
