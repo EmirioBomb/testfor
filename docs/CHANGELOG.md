@@ -1,3 +1,11 @@
+## 🔖 Release v2.0.6 (2026-04-30)
+
+### 📝 Documentation
+
+* :art: 这个也不会打patch ([af39b49](https://github.com/EmirioBomb/testfor/commit/af39b49890b995a2f7d199b0769bb2951a3eea6e))
+* **blog:** :art: 这个不会打patch ([0b7912f](https://github.com/EmirioBomb/testfor/commit/0b7912f2e53091b59bb682db7e46925bd328dc34))
+* **docs:** :zap: 这个会打 patch ([5f19d51](https://github.com/EmirioBomb/testfor/commit/5f19d51ff70281e03cd5c912d3d26361877fbccf))
+
 ## 🔖 Release v2.0.5 (2026-04-30)
 
 ### 📝 Documentation
