@@ -24,16 +24,10 @@
                     {
                         "type": "docs",
                         "scope": "docs",
-                        "release": "patch"
+                        "release": false
                     },
                     {
                         "type": "docs",
-                        "scope": "blog",
-                        "release": "patch"
-                    },
-                    {
-                        "type": "docs",
-                        "scope": "note",
                         "release": "patch"
                     },
                     {
