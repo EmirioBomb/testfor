@@ -23,12 +23,12 @@
                     },
                     {
                         "type": "docs",
-                        "scope": "!docs",
-                        "release": "patch"
+                        "scope": "docs",
+                        "release": false
                     },
                     {
                         "type": "docs",
-                        "release": false
+                        "release": "patch"
                     },
                     {
                         "type": "chore",
